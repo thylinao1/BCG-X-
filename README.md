@@ -40,32 +40,5 @@ Chatbot. Type one of the 10 questions below, or 'exit'.
 9) show latest for microsoft
 10) show latest for tesla
 
->  show operating cash flow for the companies
-     Company  Fiscal Year  Cash Flow from Operating Activities (USDm)
-0      Apple         2024                                      118254
-1      Apple         2023                                      110543
-2      Apple         2022                                      122151
-3  Microsoft         2024                                      118548
-4  Microsoft         2023                                       87582
-5  Microsoft         2022                                       89035
-6      Tesla         2024                                       14923
-7      Tesla         2023                                       13256
-8      Tesla         2022                                       14724
->  show latest for microsoft
-     Company  Fiscal Year  Total Revenue (USDm)  Net Income (USDm)
-3  Microsoft         2024                245122              88136
->  show total liabilities for the companies
-     Company  Fiscal Year  Total Liabilities (USDm)
-0      Apple         2024                    308030
-1      Apple         2023                    290437
-2      Apple         2022                    302083
-3  Microsoft         2024                    243686
-4  Microsoft         2023                    205753
-5  Microsoft         2022                    198298
-6      Tesla         2024                     48390
-7      Tesla         2023                     43009
-8      Tesla         2022                     36440
->  which one should I invest in?
-This question isn't in the 10 predefined ones. I'll connect you to an agent.
->  quit
+
 Bye!
