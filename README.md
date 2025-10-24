@@ -1,4 +1,15 @@
-# Chatbot (CLI) — Brief Documentation
+# Chatbot - Brief Documentation
+
+
+
+
+
+
+
+
+
+
+# Chatbot - Brief Documentation
 
 ---
 
@@ -11,20 +22,6 @@ Limitations (Intentional Simplifications)
 
 Exact phrasing only: Only recognizes the 10 listed questions (case-insensitive).
 Anything else triggers: “This question isn’t in the predefined ones. I’ll connect you to an agent.”
-
-No validation/guardrails:
-Assumes the CSV is valid and complete (no checks for missing data or typos).
-
-No calculations:
-Strictly prints existing data — no CAGR, ratios, or growth computations.
-
-Static prompts:
-“Show latest for Microsoft/Tesla” are fixed examples for simplicity.
-
-Local CLI only:
-Runs in your terminal — no Flask/web interface, no API, no persistence.
-
-
 
 Conversation Sample:
 Chatbot. Type one of the 10 questions below, or 'exit'.
