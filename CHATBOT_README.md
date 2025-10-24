@@ -284,45 +284,8 @@ financial-chatbot/
 
 ---
 
-## 📚 References & Resources
-
-- **BCG X GenAI Consulting:** Virtual experience program curriculum
-- **SEC EDGAR Database:** Source of 10-K financial data
-- **Pandas Documentation:** Data manipulation techniques
-- **Chatbot Design Principles:** Rule-based conversational AI patterns
-
----
-
-## 📝 License
-
-This project is for educational and portfolio demonstration purposes.
-
----
-
-## 👤 Author
-
-**[Your Name]**  
-*AI/ML Enthusiast | Financial Technology Developer*
-
-[LinkedIn](your-linkedin-url) | [Portfolio](your-portfolio-url) | [Email](mailto:your-email)
-
----
-
 ## 🙏 Acknowledgments
 
 - **BCG X** – GenAI Consulting program for project framework and guidance
 - **Global Finance Corp.** – Simulated client providing business context
-- **Anthropic** – AI development best practices and consultation
 
----
-
-## 🤝 Contributing
-
-This is a personal portfolio project, but feedback and suggestions are welcome! Feel free to:
-- Open issues for bugs or enhancement ideas
-- Fork the repository for your own experimentation
-- Share your chatbot improvements or extensions
-
----
-
-*Note: This chatbot is a prototype demonstrating foundational AI principles. It uses rule-based logic suitable for controlled query sets. Production implementations would incorporate NLP, machine learning, and robust security measures.*
