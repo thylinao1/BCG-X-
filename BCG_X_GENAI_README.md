@@ -82,7 +82,6 @@ def cagr(start, end, n):
 - Highlighted **Apple's resilience** despite flat revenue growth
 - Flagged **Tesla's efficiency challenges** requiring operational focus
 
-**Deliverable:** [Financial Trend Analysis Notebook](./Financial_Trend_Analysis_2022_2024.ipynb) | [Analysis Report](./FinAnalysis.csv)
 
 ---
 
@@ -157,7 +156,6 @@ Continue/Exit
 - ✅ **Error Handling** – Graceful degradation with human escalation
 - ✅ **Data Integration** – Real-time retrieval from structured datasets
 
-**Deliverable:** [Chatbot Notebook](./ChatBot.ipynb)
 
 ---
 
