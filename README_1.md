@@ -166,27 +166,7 @@ jupyter notebook Financial_Trend_Analysis_2022_2024.ipynb
 
 ---
 
-## 📝 License
-
-This project is for educational and portfolio demonstration purposes.
-
----
-
-## 👤 Author
-
-**[Your Name]**  
-*Data Scientist | Financial Analytics Enthusiast*
-
-[LinkedIn](your-linkedin-url) | [Portfolio](your-portfolio-url) | [Email](mailto:your-email)
-
----
-
 ## 🙏 Acknowledgments
 
 - **BCG X** – GenAI Consulting virtual experience program
 - **SEC** – Public company financial disclosure database
-- **Anthropic** – AI-assisted analysis guidance
-
----
-
-*Note: This analysis is based on publicly available SEC filings. All figures are in USD millions. Investment decisions should be made with comprehensive due diligence and professional financial advice.*
