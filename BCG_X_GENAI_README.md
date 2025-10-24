@@ -310,25 +310,7 @@ jupyter notebook ChatBot.ipynb
 - **BCG X GenAI Consulting** – Virtual experience program framework
 - **SEC Guidelines** – "How to Read a 10-K/10-Q" (January 2021)
 
----
-
-## 📝 License
-
-This project is for educational and portfolio demonstration purposes. All financial data is publicly available via SEC EDGAR.
-
----
-
-## 👤 Author
-
-**[Your Name]**  
-*Data Scientist | AI/ML Engineer | Financial Analytics Specialist*
-
-📧 [your-email@example.com](mailto:your-email@example.com)  
-💼 [LinkedIn Profile](your-linkedin-url)  
-🌐 [Portfolio Website](your-portfolio-url)  
-🐙 [GitHub](your-github-url)
-
----
+--
 
 ## 🙏 Acknowledgments
 
@@ -337,23 +319,4 @@ This project is for educational and portfolio demonstration purposes. All financ
 - **SEC** – Public company disclosure database enabling transparent analysis
 - **Open Source Community** – Pandas, NumPy, Matplotlib, and Jupyter development teams
 
----
 
-## 📞 Contact & Collaboration
-
-Interested in discussing this project, data science opportunities, or AI development?  
-**Let's connect!** I'm always open to conversations about financial technology, machine learning applications, and consulting projects.
-
----
-
-<div align="center">
-
-### ⭐ If you found this project valuable, please consider starring the repository! ⭐
-
-**Built with 💡 Data Science | 🤖 AI Development | 📊 Financial Analysis**
-
-</div>
-
----
-
-*Last Updated: October 2024 | BCG X GenAI Consulting Virtual Experience*
